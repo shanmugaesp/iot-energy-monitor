@@ -1,7 +1,7 @@
 //Blynk IOT Multimeter on Nodemcu
-//This code is developed by Ananth_vipas
+//This code is developed by Shanmugapriya
 // Fill-in information from your Blynk Template here
-//https://github.com/ananthvipas
+//https://github.com/shanmugaesp
 //IF you have any doubt / requirements Discuss in github
 /****************************************************************************/
 
@@ -77,7 +77,7 @@ void setup()
   }
 
   Blynk.begin(auth, ssid, pass);
-  Serial.println("IoT Multimeter Developed by Ananth_VipAS");
+  Serial.println("IoT Multimeter Developed by SP");
   Serial.println("IoT Multimeter with INA219 ...");
 
   
